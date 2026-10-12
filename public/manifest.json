@@ -1,0 +1,9 @@
+{
+  "name": "Мафия Онлайн",
+  "short_name": "Мафия",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0a0b10",
+  "theme_color": "#d64b51"
+}
